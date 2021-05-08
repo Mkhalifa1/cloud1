@@ -1,0 +1,5 @@
+#Mahmoud Khalifa Abdul Latif Hamed
+FROM python
+COPY . /Cloud
+WORKDIR /Cloud
+CMD python  python_file.py

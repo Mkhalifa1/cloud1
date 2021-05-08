@@ -1,2 +1,2 @@
 # cloud1
-**  5lifa/cloud1:tagname **
+#**docker pull 5lifa/cloud1:latest
